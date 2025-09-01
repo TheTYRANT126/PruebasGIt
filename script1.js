@@ -9,3 +9,6 @@ let multiplicacion = num1 * num2;
 console.log("La multiplicación de", num1, "y", num2, "es:", multiplicacion);
 
 //quiero hacer un nuevo comit 
+
+let division = num1 / num2;
+console.log("La division de", num1, "y", num2, "es:", division);
